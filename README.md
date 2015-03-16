@@ -1,1 +1,1 @@
-# Plugin.Video.best
+# Plugin.Video.Goku
